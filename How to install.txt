@@ -1,0 +1,23 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INSTALLATION
+Copy this file into your maya scripts directory, for example:
+
+WIN - C:/Documents and Settings/user/My Documents/maya/scripts/mouthShader_tool.py
+MACOS - /Users/user/Library/Preferences/Autodesk/maya/scripts/mouthShader_tool.py
+
+Run the tool from python command line or shelf button by 
+importing the module, and then calling the primary function:
+
+    import mouthShader_tool
+    mouthShader_tool.run()
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ICON
+Copy the icon JPG (mouthShader_tool.jpg) to the icon folder in your maya prefs, for example:
+
+WIN - C:/Documents and Settings/user/My Documents/maya/2024/prefs/icons/mouthShader_tool.jpg
+MACOS - /Users/name/Library/Preferences/Autodesk/maya/2024/prefs/icons/mouthShader_tool.jpg
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
