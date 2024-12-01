@@ -12,16 +12,15 @@ The plane can then be placed at the back of a character's mouth (behind the tong
 to help create depth when the mouth is open.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-MOUTH SHADER TOOL (mouthShader_tool.py)
+MOUTH SHADER TOOL
+(mouthShader_tool.py)
 Version 1.2.1 / 28/11/24
 
 Tool created by James Boyle (@JamesBAnim)
 Original idea inspired by Charles Icay (@IkHandle)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
 LICENSE MIT
-
 Copyright (c) 2024 James Boyle
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -43,7 +42,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
 INSTALLATION
 Copy this file into your maya scripts directory, for example:
 
@@ -57,7 +55,6 @@ importing the module, and then calling the primary function:
     mouthShader_tool.run()
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
 ICON
 Copy the icon JPG (mouthShader_tool.jpg) to the icon folder in your maya prefs, for example:
 
@@ -65,16 +62,18 @@ WIN - C:/Documents and Settings/user/My Documents/maya/2024/prefs/icons/mouthSha
 MACOS - /Users/name/Library/Preferences/Autodesk/maya/2024/prefs/icons/mouthShader_tool.jpg
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
 COMPATIBILITY
 Python 3
 Maya 2022 - 2024
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
 DESCRIPTION
 This tool creates a simple gradient shader material and assigns it to a plane. 
 The plane can be placed at the back of a character's mouth (behind the tongue), 
 to help create depth when the mouth is open.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+HOW TO USE
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
